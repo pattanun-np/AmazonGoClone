@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Kikat",
+        "price": "30.00",
+        "Image": "C01-00001.png",
+        "Category": "Sweet"
+    },
+    {
+        "name": "Haribo เขียว",
+        "price": "35.00",
+        "Image": "C01-00002.jpeg",
+        "Category": "Sweet"
+    },
+    {
+        "name": "ป๊อกกี้ชาเขียว",
+        "price": "20.00",
+        "Image": "C01-00003.png",
+        "Category": "Sweet"
+    },
+    {
+        "name": "Jelly    Belly",
+        "price": "35.00",
+        "Image": "C01-00004.jpeg",
+        "Category": "Sweet"
+    },
+    {
+        "name": "Haribo Gold",
+        "price": "35.00",
+        "Image": "C01-00005.jpg",
+        "Category": "Sweet"
+    },
+    {
+        "name": "ป๊อกกี้ ช็อคโก",
+        "price": "20.00",
+        "Image": "C01-00006.jpg",
+        "Category": "Sweet"
+    },
+    {
+        "name": "ป๊อกกี้สคอเบอรี่",
+        "price": "20.00",
+        "Image": "C01-00007.png",
+        "Category": "Sweet"
+    },
+    {
+        "name": "โอรีโอ",
+        "price": "30.00",
+        "Image": "C01-00008.webp",
+        "Category": "Sweet"
+    },
+    {
+        "name": "มาม่า ต้มยำกุ้ง",
+        "price": "69.00",
+        "Image": "C02-00001.jpg",
+        "Category": "Dry"
+    },
+    {
+        "name": "มาม่า แกงเขียวหวานไก่",
+        "price": "50.00",
+        "Image": "C02-00002.jpg",
+        "Category": "Dry"
+    },
+    {
+        "name": "เส้นสปาเก็ตตี้",
+        "price": "50.00",
+        "Image": "C02-00003.jpeg",
+        "Category": "Dry"
+    },
+    {
+        "name": "ไมโล",
+        "price": "80.00",
+        "Image": "C03-00001.jpg",
+        "Category": "Instant Drink"
+    }
+]
